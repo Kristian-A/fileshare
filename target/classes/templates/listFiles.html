@@ -1,0 +1,17 @@
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+
+<tr th:each = "file: ${files}">
+    <td th:text = "${file.getSpacing()}" />
+    <td th:text = "${file.getName()}" />
+    <a th:href="@{'/deleteFile/' + ${file.getId()}}">Delete</a>
+
+    <form th:action="@{'/addFile/' + ${file.getId()}}" method="get">
+        <td th:text = "${file.getSpacing()}" />
+        <input type = "text" name="name">
+        <input type = "submit" value="Add"/>
+    </form>
+    <br>
+</tr>
+
+</html>
+

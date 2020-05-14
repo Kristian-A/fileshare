@@ -1,0 +1,17 @@
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Entities/UserEntity.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Repositories/UserRepository.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Repositories/FileRepository.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Repositories/ConfirmationTokenRepository.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/UserService.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Controllers/UserController.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/FileshareApplication.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/HelloController.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Entities/ConfirmationTokenEntity.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Entities/FileEntity.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/UserDetails.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Controllers/MainController.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Controllers/FileController.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/WebSecurityConfig.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/PlainEncoder.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/EmailSenderService.java
+/home/kristian/Desktop/iphomework/fileshare/src/main/java/org/homework/fileshare/Controllers/AccountController.java

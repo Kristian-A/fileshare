@@ -1,0 +1,15 @@
+org/homework/fileshare/Repositories/UserRepository.class
+org/homework/fileshare/FileshareApplication.class
+org/homework/fileshare/Entities/FileEntity.class
+org/homework/fileshare/Controllers/AccountController.class
+org/homework/fileshare/HelloController.class
+org/homework/fileshare/Controllers/FileController.class
+org/homework/fileshare/EmailSenderService.class
+org/homework/fileshare/WebSecurityConfig.class
+org/homework/fileshare/Entities/ConfirmationTokenEntity.class
+org/homework/fileshare/PlainEncoder.class
+org/homework/fileshare/Repositories/FileRepository.class
+org/homework/fileshare/Entities/UserEntity.class
+org/homework/fileshare/Controllers/MainController.class
+org/homework/fileshare/Repositories/ConfirmationTokenRepository.class
+org/homework/fileshare/Controllers/UserController.class
